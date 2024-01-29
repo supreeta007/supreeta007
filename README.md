@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Supreeta 
 - 👀 I’m interested in Making adventurous travel  
-- 🌱 I’m currently learning DSA
+- 📕 I’m currently learning DSA
 - 🧑‍🎓 I’m looking for Software Development Opportunity 
 - 😄 Pronouns: She/Her
 
